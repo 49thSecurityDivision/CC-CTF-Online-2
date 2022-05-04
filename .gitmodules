@@ -1,0 +1,3 @@
+[submodule "writeups/nilbinsec"]
+	path = writeups/nilbinsec
+	url = https://github.com/NilbinSec/Carolina-Con-Online-2-CTF
